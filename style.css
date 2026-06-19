@@ -1,7 +1,4 @@
-/* 
-  Basic reset removes default browser spacing.
-  This helps make the layout easier to control.
-*/
+
 * {
     margin: 0;
     padding: 0;
